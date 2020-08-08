@@ -1,3 +1,5 @@
+![SU Hackathon 2020](/template_small.png)
+
 # SU Hackathon 2020
 
 ## Members
