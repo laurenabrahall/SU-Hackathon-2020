@@ -2,8 +2,8 @@
 
 # SU Hackathon 2020
 
-## Members
+### Members
 Lauren, Paul and Hendrik.
 
-## Brief
+### Brief
 Build solutions that can help small businesses to function effectively in the new normal post-COVID.
